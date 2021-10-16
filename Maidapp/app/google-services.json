@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "969331928827",
+    "firebase_url": "https://maid-monitoring-app.firebaseio.com",
+    "project_id": "maid-monitoring-app",
+    "storage_bucket": "maid-monitoring-app.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:969331928827:android:8230a0ea27a442dc3dca5e",
+        "android_client_info": {
+          "package_name": "com.example.maidapp"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "969331928827-n8nl1fodkpt5nucld2m75kav7ote5gfa.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDjyATdyjZMJzExk-ydtzVu7CRlQaS1W9I"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "969331928827-n8nl1fodkpt5nucld2m75kav7ote5gfa.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
